@@ -1,0 +1,62 @@
+[
+  {
+    "id": "1",
+    "descripcion": "Paquete economico de ida y vuelta desde Lima a madrid",
+    "tipo": "Ida y Vuelta",
+    "categoria": "Economy",
+    "precio": "1337.54",
+    "fecIda": "2022-11-17",
+    "fecVuelta": "2022-11-27",
+    "paisOrigen": "Peru",
+    "paisDestino": "Spain",
+    "foto": "madrid.jpg"
+  },
+  {
+    "id": "2",
+    "descripcion": "Paquete economico de solo ida desde Lima a Santiago de Chile",
+    "tipo": "Solo Ida",
+    "categoria": "Economy",
+    "precio": "124.41",
+    "fecIda": "2022-11-13",
+    "fecVuelta": "0000-00-00",
+    "paisOrigen": "Peru",
+    "paisDestino": "Chile",
+    "foto": "santiago.jpg"
+  },
+  {
+    "id": "3",
+    "descripcion": "Paquete economico de ida y vuelta desde Lima a Cancun",
+    "tipo": "Ida y Vuelta",
+    "categoria": "Economy",
+    "precio": "481.83",
+    "fecIda": "2022-11-03",
+    "fecVuelta": "2022-11-13",
+    "paisOrigen": "Peru",
+    "paisDestino": "Mexico",
+    "foto": "cancun.jpg"
+  },
+  {
+    "id": "4",
+    "descripcion": "Paquete economico de ida y vuelta desde Lima hasta Miami",
+    "tipo": "Ida y Vuelta",
+    "categoria": "Economy",
+    "precio": "398.19",
+    "fecIda": "2022-11-12",
+    "fecVuelta": "2022-11-22",
+    "paisOrigen": "Peru",
+    "paisDestino": "Estados Unidos",
+    "foto": "miami.jpg"
+  },
+  {
+    "id": "5",
+    "descripcion": "Paquete economico ida y vuelta desde Lima a Ayacucho",
+    "tipo": "Solo Ida",
+    "categoria": "Economy",
+    "precio": "44.57",
+    "fecIda": "2022-11-04",
+    "fecVuelta": null,
+    "paisOrigen": "Peru",
+    "paisDestino": "Peru",
+    "foto": "Ayacucho.jpg"
+  }
+]
