@@ -1,9 +1,5 @@
 {
-  "Destinos": [
-    {
-      "id": 1,
-      "pais": "Peru",
-      "fotoPais" : "Peru.jpg",
+ 
       "paquetes": [
         {
           "id": "1",
@@ -42,10 +38,5 @@
         
       
       ]
-    },
-    {
-      "id": 2,
-      "pais": "Chile"
     }
-  ]
-}
+
