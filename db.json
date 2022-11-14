@@ -3,25 +3,49 @@
     {
       "id": 1,
       "pais": "Peru",
-      "paquetes" : [
-        {"id": 1 ,
-         "destino" : "Arequipa",
-         "tipo" : "Solo ida"
-                
+      "fotoPais" : "Peru.jpg",
+      "paquetes": [
+        {
+          "id": "1",
+          "descripcion": "Paquete economico desde Lima a Ayacucho",
+          "tipo": "Solo Ida",
+          "categoria": "Economy",
+          "precio": "44.57",
+          "fecIda": "2022-11-04",
+          "fecVuelta": "",
+          "paisDestino": "Peru",
+          "foto": "Ayacucho.jpg"
         },
-          {"id": 2 ,
-         "destino" : "Arequipa2",
-         "tipo" : "Solo ida2"
-                
+          {
+          "id": "2",
+          "descripcion": "Paquete premium desde Lima a La Libertad",
+          "tipo": "Ida y Vuelta",
+          "categoria": "Premium",
+          "precio": "74.92",
+          "fecIda": "2023-01-14",
+          "fecVuelta": "2023-01-20",
+          "paisDestino": "Peru",
+          "foto": "ica.jpg"
         }
+        ,
+          {
+          "id": "3",
+          "descripcion": "Paquete premium desde Lima a Cuzco",
+          "tipo": "Solo ida Vuelta",
+          "categoria": "Premium",
+          "precio": "74.92",
+          "fecIda": "2023-02-18",
+          "fecVuelta": "",
+          "paisDestino": "Peru",
+          "foto": "cuzco.jpg"
+        }
+        
+      
       ]
     },
-      {
+    {
       "id": 2,
       "pais": "Chile"
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
