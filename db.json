@@ -1,12 +1,24 @@
 {
-  "posts": [
+  "Destinos": [
     {
       "id": 1,
-      "title": "hello"
+      "pais": "Peru",
+      "paquetes" : [
+        {"id": 1 ,
+         "destino" : "Arequipa",
+         "tipo" : "Solo ida"
+                
+        },
+          {"id": 2 ,
+         "destino" : "Arequipa2",
+         "tipo" : "Solo ida2"
+                
+        }
+      ]
     },
       {
       "id": 2,
-      "title": "hello2"
+      "pais": "Chile"
     }
   ],
   "profile": {
