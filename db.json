@@ -35,7 +35,18 @@
           "paisDestino": "Peru",
           "foto": "cuzco.jpg"
         }
-        
+          ,
+          {
+          "id": "4",
+          "descripcion": "Paquete premium desde Lima a Cuzco",
+          "tipo": "Solo ida Vuelta",
+          "categoria": "Premium",
+          "precio": "74.92",
+          "fecIda": "2023-02-18",
+          "fecVuelta": "",
+          "paisDestino": "Chile",
+          "foto": "cuzco.jpg"
+        }
       
       ]
     }
