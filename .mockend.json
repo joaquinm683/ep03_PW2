@@ -1,8 +1,8 @@
 {
   "Destinos": {
-    "peru": {      
+    "Peru": {      
       "id": "1",
-      "belongsTo": "Model"
+      "dw": "wdw"
     }
   }
 }
