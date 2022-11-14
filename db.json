@@ -9,7 +9,8 @@
           "precio": "44.57",
           "fecIda": "2022-11-04",
           "fecVuelta": "",
-          "paisDestino": "Peru",
+          "paisOrigen": "Peru",
+           "Destino": "Ayacucho",
           "foto": "Ayacucho.jpg"
         },
           {
@@ -20,7 +21,8 @@
           "precio": "74.92",
           "fecIda": "2023-01-14",
           "fecVuelta": "2023-01-20",
-          "paisDestino": "Peru",
+           "paisOrigen": "Peru",
+          "Destino": "Ica",
           "foto": "ica.jpg"
         }
         ,
@@ -32,7 +34,8 @@
           "precio": "74.92",
           "fecIda": "2023-02-18",
           "fecVuelta": "",
-          "paisDestino": "Peru",
+          "paisOrigen": "Peru",
+            "Destino": "Cuzco",
           "foto": "cuzco.jpg"
         }
           ,
@@ -44,8 +47,9 @@
           "precio": "74.92",
           "fecIda": "2023-02-18",
           "fecVuelta": "",
-          "paisDestino": "Chile",
-          "foto": "cuzco.jpg"
+          "paisOrigen": "Chile",
+           "Destino": "Santiago",
+          "foto": "santiago.jpg"
         }
       
       ]
