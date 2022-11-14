@@ -1,5 +1,23 @@
 {
-  "User": {
-    "title": { "string": {} }
+  "Destinos": {
+           { "id": 1,
+             "name" : "Peru",             
+             "paqueters" : {
+                { "id" : 1,
+                   "Destino" : "Cuzco
+  
+                  }       
+               { "id" : 2,
+                   "Destino" : "Cuzco2
+  
+                  }  
+              
+            
+            }
+            
+            
+            
+            
+            }
   }
 }
