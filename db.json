@@ -15,7 +15,7 @@
         },
           {
           "id": "2",
-          "descripcion": "Paquete premium desde Lima a La Libertad",
+          "descripcion": "Paquete premium desde Lima a Ica",
           "tipo": "Ida y Vuelta",
           "categoria": "Premium",
           "precio": "74.92",
@@ -28,30 +28,42 @@
         ,
           {
           "id": "3",
-          "descripcion": "Paquete premium desde Lima a Cuzco",
-          "tipo": "Solo ida Vuelta",
-          "categoria": "Premium",
-          "precio": "74.92",
+          "descripcion": "Paquete economico desde Lima a Cuzco",
+          "tipo": "Solo ida",
+          "categoria": "Economy",
+          "precio": "124.00",
           "fecIda": "2023-02-18",
           "fecVuelta": "",
           "paisOrigen": "Peru",
             "Destino": "Cuzco",
-          "foto": "cuzco.jpg"
+          "foto": "Cuzco.jpg"
         }
           ,
           {
           "id": "4",
-          "descripcion": "Paquete premium desde Lima a Cuzco",
-          "tipo": "Solo ida Vuelta",
+          "descripcion": "Paquete premium desde Lima a Arequipa",
+          "tipo": "Ida y Vuelta",
           "categoria": "Premium",
-          "precio": "74.92",
-          "fecIda": "2023-02-18",
-          "fecVuelta": "",
-          "paisOrigen": "Chile",
-           "Destino": "Santiago",
-          "foto": "santiago.jpg"
+          "precio": "24.92",
+          "fecIda": "2021-02-18",
+          "fecVuelta": "2021-02-25",
+          "paisOrigen": "Peru",
+            "Destino": "Arequipa",
+          "foto": "Arequipa.jpg"
+        },
+           
+          {
+          "id": "5",
+          "descripcion": "Paquete premium desde Lima a La Libertad",
+          "tipo": "Ida y Vuelta",
+          "categoria": "Premium",
+          "precio": "54.00",
+          "fecIda": "2021-04-18",
+          "fecVuelta": "2021-04-25",
+          "paisOrigen": "Peru",
+            "Destino": "Arequipa",
+          "foto": "Libertad.jpg"
         }
       
       ]
     }
-
