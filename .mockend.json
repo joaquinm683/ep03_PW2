@@ -1,14 +1,10 @@
 {
   "Destinos" : {
     "id": "1",
-    "Pais": "Peru",
-    "Descripcion" : "Conoce el Peru",
-    "foto": "madrid.jpg",
-    "paquetes" : 
-        {
-          "id" : 1
-      
-        }
+    "pais": "Peru",
+    "descripcion" : "Conoce el Peru",
+    "foto": "madrid.jpg"
+  
        
       
 
