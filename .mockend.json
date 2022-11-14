@@ -1,11 +1,8 @@
 {
-  "Destinos" : {
-    "id": "1",
-    "pais": "Peru",
-    "descripcion" : "Conoce el Peru",
-    "foto": "madrid.jpg"
-  
-       
-      
-
-}}
+  "Destinos": {
+    "peru": {      
+      "id": "1",
+      "belongsTo": "Model"
+    }
+  }
+}
