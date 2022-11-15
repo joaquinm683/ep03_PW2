@@ -10,6 +10,7 @@
           "fecIda": "2022-11-04",
           "fecVuelta": "",
           "paisOrigen": "Peru",
+		  "paisDestino": "Peru",
            "Destino": "Ayacucho",
           "foto": "Ayacucho.jpg"
         },
@@ -22,6 +23,7 @@
           "fecIda": "2023-01-14",
           "fecVuelta": "2023-01-20",
            "paisOrigen": "Peru",
+		   "paisDestino": "Peru",
           "Destino": "Ica",
           "foto": "ica.jpg"
         }
@@ -35,6 +37,7 @@
           "fecIda": "2023-02-18",
           "fecVuelta": "",
           "paisOrigen": "Peru",
+		  "paisDestino": "Peru",
             "Destino": "Cuzco",
           "foto": "Cuzco.jpg"
         }
@@ -48,6 +51,7 @@
           "fecIda": "2021-02-18",
           "fecVuelta": "2021-02-25",
           "paisOrigen": "Peru",
+		  "paisDestino": "Peru",
             "Destino": "Arequipa",
           "foto": "Arequipa.jpg"
         },
@@ -61,9 +65,150 @@
           "fecIda": "2021-04-18",
           "fecVuelta": "2021-04-25",
           "paisOrigen": "Peru",
+		  "paisDestino": "Peru",
             "Destino": "Arequipa",
           "foto": "Libertad.jpg"
         }
+		,
+               {
+          "id": "6",
+          "descripcion": "Paquete economico desde Lima a Santiago",
+          "tipo": "Solo Ida",
+          "categoria": "Economy",
+          "precio": "44.57",
+          "fecIda": "2022-11-04",
+          "fecVuelta": "",
+          "paisOrigen": "Peru",
+		  "paisDestino": "Chile",
+           "Destino": "Santiago",
+          "foto": "Santiago.jpg"
+        },
+          {
+          "id": "7",
+          "descripcion": "Paquete premium desde Lima a Isla de Pascua",
+          "tipo": "Ida y Vuelta",
+          "categoria": "Premium",
+          "precio": "74.92",
+          "fecIda": "2023-01-14",
+          "fecVuelta": "2023-01-20",
+           "paisOrigen": "Peru",
+		   "paisDestino": "Chile",
+          "Destino": "Isla de Pascua",
+          "foto": "Islapascua.jpg"
+        }
+        ,
+          {
+          "id": "8",
+          "descripcion": "Paquete economico desde Lima a Valparaiso",
+          "tipo": "Solo ida",
+          "categoria": "Economy",
+          "precio": "124.00",
+          "fecIda": "2023-02-18",
+          "fecVuelta": "",
+          "paisOrigen": "Peru",
+		  "paisDestino": "Chile",
+            "Destino": "Valparaiso",
+          "foto": "Valparaiso.jpg"
+        }
+          ,
+          {
+          "id": "9",
+          "descripcion": "Paquete premium desde Lima a San Pedro de Atacama",
+          "tipo": "Ida y Vuelta",
+          "categoria": "Premium",
+          "precio": "24.92",
+          "fecIda": "2021-02-18",
+          "fecVuelta": "2021-02-25",
+          "paisOrigen": "Peru",
+		  "paisDestino": "Chile",
+            "Destino": "San Pedro de Atacama",
+          "foto": "Sanpedroatacama.jpg"
+        },
+           
+          {
+          "id": "10",
+          "descripcion": "Paquete premium desde Lima a Iquique",
+          "tipo": "Ida y Vuelta",
+          "categoria": "Premium",
+          "precio": "54.00",
+          "fecIda": "2021-04-18",
+          "fecVuelta": "2021-04-25",
+          "paisOrigen": "Peru",
+		  "paisDestino": "Chile",
+            "Destino": "Iquique",
+          "foto": "Iquique.jpg"
+        }
+		
+				,
+               {
+          "id": "11",
+          "descripcion": "Paquete economico desde Lima a Zocalo",
+          "tipo": "Solo Ida",
+          "categoria": "Economy",
+          "precio": "44.57",
+          "fecIda": "2022-11-04",
+          "fecVuelta": "",
+          "paisOrigen": "Peru",
+		  "paisDestino": "Mexico",
+           "Destino": "Zocalo",
+          "foto": "Zocalo.jpg"
+        },
+          {
+          "id": "12",
+          "descripcion": "Paquete premium desde Lima a Acapulco",
+          "tipo": "Ida y Vuelta",
+          "categoria": "Premium",
+          "precio": "74.92",
+          "fecIda": "2023-01-14",
+          "fecVuelta": "2023-01-20",
+           "paisOrigen": "Peru",
+		   "paisDestino": "Mexico",
+          "Destino": "Acapulco",
+          "foto": "Acapulco.jpg"
+        }
+        ,
+          {
+          "id": "13",
+          "descripcion": "Paquete economico desde Lima a Puerto Vallarta",
+          "tipo": "Solo ida",
+          "categoria": "Economy",
+          "precio": "124.00",
+          "fecIda": "2023-02-18",
+          "fecVuelta": "",
+          "paisOrigen": "Peru",
+		  "paisDestino": "Mexico",
+            "Destino": "Puerto Vallarta",
+          "foto": "Puertovallarta.jpg"
+        }
+          ,
+          {
+          "id": "14",
+          "descripcion": "Paquete premium desde Lima a Mexico City",
+          "tipo": "Ida y Vuelta",
+          "categoria": "Premium",
+          "precio": "24.92",
+          "fecIda": "2021-02-18",
+          "fecVuelta": "2021-02-25",
+          "paisOrigen": "Peru",
+		  "paisDestino": "Mexico",
+          "Destino": "Mexico City",
+          "foto": "Mexicocity.jpg"
+        },
+           
+          {
+          "id": "15",
+          "descripcion": "Paquete premium desde Lima a Rivera Maya",
+          "tipo": "Ida y Vuelta",
+          "categoria": "Premium",
+          "precio": "54.00",
+          "fecIda": "2021-04-18",
+          "fecVuelta": "2021-04-25",
+          "paisOrigen": "Peru",
+		  "paisDestino": "Mexico",
+          "Destino": "Rivera Maya",
+          "foto": "Riveramaya.jpg"
+        }
+          
       
       ]
     }
