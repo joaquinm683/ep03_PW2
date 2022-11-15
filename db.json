@@ -279,6 +279,75 @@
           "Destino": "Miami",
           "foto": "miami.jpg"
         }
+		 	,
+               {
+          "id": "21",
+          "descripcion": "Paquete economico desde Lima a La Sagrada Familia",
+          "tipo": "Solo Ida",
+          "categoria": "Economy",
+          "precio": "44.57",
+          "fecIda": "2022-11-04",
+          "fecVuelta": "",
+          "paisOrigen": "Peru",
+		  "paisDestino": "Spain",
+           "Destino": "La Sagrada Familia",
+          "foto": "Sagradafamilia.jpg"
+        },
+          {
+          "id": "22",
+          "descripcion": "Paquete premium desde Lima a Alhambra",
+          "tipo": "Ida y Vuelta",
+          "categoria": "Premium",
+          "precio": "74.92",
+          "fecIda": "2023-01-14",
+          "fecVuelta": "2023-01-20",
+           "paisOrigen": "Peru",
+		   "paisDestino": "Spain",
+          "Destino": "Alhambra",
+          "foto": "Alhambra.jpg"
+        }
+        ,
+          {
+          "id": "23",
+          "descripcion": "Paquete economico desde Lima a Casa Batlló",
+          "tipo": "Solo ida",
+          "categoria": "Economy",
+          "precio": "124.00",
+          "fecIda": "2023-02-18",
+          "fecVuelta": "",
+          "paisOrigen": "Peru",
+		  "paisDestino": "Spain",
+            "Destino": "Casa Batlló",
+          "foto": "Casabatllo.jpg"
+        }
+          ,
+          {
+          "id": "24",
+          "descripcion": "Paquete premium desde Lima a Plaza de España",
+          "tipo": "Ida y Vuelta",
+          "categoria": "Premium",
+          "precio": "24.92",
+          "fecIda": "2021-02-18",
+          "fecVuelta": "2021-02-25",
+          "paisOrigen": "Peru",
+		  "paisDestino": "Spain",
+          "Destino": "Plaza de España",
+          "foto": "Plazaespaña.jpg"
+        },
+           
+          {
+          "id": "25",
+          "descripcion": "Paquete premium desde Lima a Tenerife",
+          "tipo": "Ida y Vuelta",
+          "categoria": "Premium",
+          "precio": "54.00",
+          "fecIda": "2021-04-18",
+          "fecVuelta": "2021-04-25",
+          "paisOrigen": "Peru",
+		  "paisDestino": "Spain",
+          "Destino": "Tenerife",
+          "foto": "Tenerife.jpg"
+        }
           
       
       ]
