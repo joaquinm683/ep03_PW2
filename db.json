@@ -193,20 +193,6 @@
 		  "paisDestino": "Mexico",
           "Destino": "Mexico City",
           "foto": "Mexicocity.jpg"
-        },
-           
-          {
-          "id": "15",
-          "descripcion": "Paquete premium desde Lima a Rivera Maya",
-          "tipo": "Ida y Vuelta",
-          "categoria": "Premium",
-          "precio": "54.00",
-          "fecIda": "2021-04-18",
-          "fecVuelta": "2021-04-25",
-          "paisOrigen": "Peru",
-		  "paisDestino": "Mexico",
-          "Destino": "Rivera Maya",
-          "foto": "Riveramaya.jpg"
         }
           
 		  
@@ -252,19 +238,6 @@
           "foto": "Sanfrancisco.jpg"
         }
           ,
-          {
-          "id": "19",
-          "descripcion": "Paquete premium desde Lima a Boston",
-          "tipo": "Ida y Vuelta",
-          "categoria": "Premium",
-          "precio": "24.92",
-          "fecIda": "2021-02-18",
-          "fecVuelta": "2021-02-25",
-          "paisOrigen": "Peru",
-		  "paisDestino": "Estados Unidos",
-          "Destino": "Boston",
-          "foto": "Boston.jpg"
-        },
            
           {
           "id": "20",
@@ -306,20 +279,7 @@
           "Destino": "Alhambra",
           "foto": "Alhambra.jpg"
         }
-        ,
-          {
-          "id": "23",
-          "descripcion": "Paquete economico desde Lima a Casa Batlló",
-          "tipo": "Solo ida",
-          "categoria": "Economy",
-          "precio": "124.00",
-          "fecIda": "2023-02-18",
-          "fecVuelta": "",
-          "paisOrigen": "Peru",
-		  "paisDestino": "Spain",
-            "Destino": "Casa Batlló",
-          "foto": "Casabatllo.jpg"
-        }
+        
           ,
           {
           "id": "24",
